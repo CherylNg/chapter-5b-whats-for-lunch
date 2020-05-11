@@ -1,5 +1,6 @@
 {
     "name": "Chapter 5b What's for Lunch",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
